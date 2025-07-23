@@ -66,7 +66,7 @@ and the name as (depending on your mood):
  - "goddamn idiotic truckload of sh*t": when it breaks
 
 [INSTALL]: INSTALL
-[Documentation/gittutorial.adoc]: Documentation/gittutorial.adoc
+   [Documentation/gittutorial.adoc]: Documentationgittutorial.adoc
 [Documentation/giteveryday.adoc]: Documentation/giteveryday.adoc
 [Documentation/gitcvs-migration.adoc]: Documentation/gitcvs-migration.adoc
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
